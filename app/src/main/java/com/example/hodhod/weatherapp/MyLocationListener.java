@@ -15,11 +15,6 @@ public class MyLocationListener implements LocationListener {
 
     @Override
     public void onLocationChanged(Location loc) {
-
-        /*String longitude = "Longitude: " + loc.getLongitude();
-        Log.v("gpsLocation", longitude);
-        String latitude = "Latitude: " + loc.getLatitude();
-        Log.v("gpsLocation", latitude);*/
     }
 
     @Override
